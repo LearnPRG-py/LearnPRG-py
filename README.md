@@ -1,11 +1,5 @@
 # yo, I'm Aryan 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Chromium+Contributor+%7C+High+Schooler;Building+Rockets+%26+Breaking+Code;EdTech+Builder+%7C+Aerospace+Nerd)
-  
-</div>
-
 ## 🚀 about me (but cooler)
 
 Just your average high schooler who somehow ended up contributing to **Chromium** while building rockets and creating EdTech platforms. Currently working on making computers accessible to underprivileged students through **Suvriddhi OS** and designing gamified learning experiences that don't suck.
