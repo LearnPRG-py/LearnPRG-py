@@ -2,9 +2,9 @@
 
 ## 🚀 about me (but cooler)
 
-Just your average high schooler who somehow ended up contributing to **Chromium** while building rockets and creating EdTech platforms. Currently working on making computers accessible to underprivileged students through **Suvriddhi OS** and designing gamified learning experiences that don't suck.
+Just your average high schooler who somehow ended up contributing to **Chromium** while building rockets and creating EdTech platforms. Currently working on making computers accessible to underprivileged students through **Suvriddhi OS** and designing gamified learning experiences.
 
-When I'm not debugging browser engines or wondering why my rocket simulations exploded *again*, you can find me interning at places like **Razorpay** and **Ananth Technologies**, or working on autonomous weather gliders. Also play piano on the side because why not.
+When I'm not debugging browser engines or wondering why my rocket simulations exploded *again*, you can find me interning at places like **Razorpay** and **Ananth Technologies**, or working on autonomous weather gliders.
 
 Check out my [portfolio](https://portfolio.quarklearning.online) for the full story and all the chaos I've created.
 
@@ -16,7 +16,7 @@ Check out my [portfolio](https://portfolio.quarklearning.online) for the full st
 skills = {
     "languages": ["Python", "C++", "C#", "HTML/CSS/JS"],
     "frameworks": ["Unity", "Buildroot", "LangChain"],
-    "specialty": "Browser internals, flight control, gamified learning",
+    "speciality": "Browser internals, flight control, gamified learning",
     "current_obsession": "Making education actually engaging",
     "debug_method": "print() statements and prayer"
 }
@@ -35,7 +35,7 @@ skills = {
   
 </div>
 
-## 🎯 what i'm building
+## 🎯 what I'm building
 
 ### 🌐 **Open Source**
 - **Chromium Contributor** – Patches to the browser engine that powers half the internet
@@ -64,7 +64,7 @@ skills = {
 - **HR Tech Intern** @ Razorpay – Built automation that reduced time-to-hire from days to hours
 - **EdTech Developer** @ Sasha Consulting – Created gamified POSH training simulations
 - **Prompt Engineering Intern** @ Scalar School of Technology – Applied GenAI to profile optimization
-- **YTS Summer Program** @ Plaksha University – Aerospace research under Dr. Pant
+- **YTS Summer Program** @ Plaksha University
 
 ## 📊 github stats
 
