@@ -1,11 +1,5 @@
 # hey, i'm aryan 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=high+school+student;learning+and+building+stuff)
-  
-</div>
-
 ## 🧑‍💻 about me
 
 High schooler who likes working on different kinds of projects. I've been contributing to Chromium, building some EdTech platforms, and messing around with rockets and flight control systems. Also working on Suvriddhi OS to help get computers to students who need them.
