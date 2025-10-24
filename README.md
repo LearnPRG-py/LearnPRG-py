@@ -1,26 +1,24 @@
-# yo, I'm Aryan 👋
+# hey, i'm aryan 👋
 
-## 🚀 about me (but cooler)
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=high+school+student;learning+and+building+stuff)
+  
+</div>
 
-Just your average high schooler who somehow ended up contributing to **Chromium** while building rockets and creating EdTech platforms. Currently working on making computers accessible to underprivileged students through **Suvriddhi OS** and designing gamified learning experiences.
+## 🧑‍💻 about me
 
-When I'm not debugging browser engines or wondering why my rocket simulations exploded *again*, you can find me interning at places like **Razorpay** and **Ananth Technologies**, or working on autonomous weather gliders.
+High schooler who likes working on different kinds of projects. I've been contributing to Chromium, building some EdTech platforms, and messing around with rockets and flight control systems. Also working on Suvriddhi OS to help get computers to students who need them.
 
-Check out my [portfolio](https://portfolio.quarklearning.online) for the full story and all the chaos I've created.
+When I'm not coding, I play piano and try to keep up with school. Still figuring things out but enjoying the process.
 
-**tl;dr:** chromium patches, rocket science, edtech platforms, and occasional music breaks 🚀
+Check out my [portfolio](https://portfolio.quarklearning.online) if you want to see more of what I've worked on.
 
-## 🛠️ tech stack & weapons of choice
+## 🛠️ what i work with
 
-```python
-skills = {
-    "languages": ["Python", "C++", "C#", "HTML/CSS/JS"],
-    "frameworks": ["Unity", "Buildroot", "LangChain"],
-    "speciality": "Browser internals, flight control, gamified learning",
-    "current_obsession": "Making education actually engaging",
-    "debug_method": "print() statements and prayer"
-}
-```
+**Languages:** Python, C++, C#, HTML/CSS/JS  
+**Tools & Frameworks:** Unity, Buildroot, LangChain  
+**Interests:** Browser internals, aerospace, education tech
 
 <div align="center">
   
@@ -28,43 +26,34 @@ skills = {
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-  ![Buildroot](https://img.shields.io/badge/Buildroot-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
   
 </div>
 
-## 🎯 what I'm building
+## 💻 some things i've worked on
 
-### 🌐 **Open Source**
-- **Chromium Contributor** – Patches to the browser engine that powers half the internet
-- **Suvriddhi OS** – Custom Linux distro bringing computers to underprivileged students
+**🌐 Open Source**
+- Contributing to Chromium and PDFium
+- Suvriddhi OS – helping bring computers to underprivileged students
 
-### 🚀 **Aerospace**
-- **Rocket 3 (TVC System)** – Thrust-vector control + custom avionics with PID algorithms
-- **Autonomous Weather Glider** – Fixed-wing glider for atmospheric data collection
-- **Flight Simulators** – Unity-based FDM and control system testing environments
+**🚀 Aerospace Projects**
+- Rocket with thrust-vector control and custom avionics
+- Autonomous weather data glider (in progress)
+- Flight simulators for testing control systems
 
-### 📚 **EdTech Platforms**
-- **Diamond of Physics** – Gamified IB Physics platform with 30+ interactive levels (founder)
-- **Ruby of Mathematics** – Visual learning platform for algebra, functions, and logic puzzles
-- **Scenario Bytes** – Branching narrative training for corporate learning
+**📚 EdTech**
+- Diamond of Physics – gamified learning platform for IB Physics
+- Ruby of Mathematics – visual learning for math concepts
+- Scenario Bytes – interactive training simulations
 
-### 🤖 **AI/ML Projects**
-- **Financial Analysis Agent** – RAG-based GenAI assistant parsing company financials with auto-generated graphs
-- **AI Fitness Tracker** – Real-time pose estimation for exercise form feedback using MediaPipe
+**🤖 Other Projects**
+- Financial analysis tool using RAG and LangChain
+- AI fitness tracker with pose estimation
+- Various Unity games and simulations
 
-### 🎮 **Game Dev**
-- **FinLearn** – 3rd place winner at Codefest 2025, teaching financial literacy through Unity
+## 💼 experience
 
-## 💼 experience highlights
-
-- **Satellite Concept Intern** @ Ananth Technologies – Led AOCS planning for AI-driven satellite systems
-- **HR Tech Intern** @ Razorpay – Built automation that reduced time-to-hire from days to hours
-- **EdTech Developer** @ Sasha Consulting – Created gamified POSH training simulations
-- **Prompt Engineering Intern** @ Scalar School of Technology – Applied GenAI to profile optimization
-- **YTS Summer Program** @ Plaksha University
+I've interned at a few places including Razorpay (HR Tech), Ananth Technologies (satellite systems), and worked on EdTech development. Also participated in summer programs at Plaksha University focusing on aerospace.
 
 ## 📊 github stats
 
@@ -72,29 +61,19 @@ skills = {
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LearnPRG-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1)
   
-  ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnPRG-py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=C9D1D9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LearnPRG-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
+  ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearnPRG-py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=C9D1D9&hide=contribs)
   
 </div>
 
-## 🔗 find me on the internet
+## 🔗 links
 
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LearnPRG-py)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryankrishnan@quarklearning.online)
   [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.quarklearning.online)
-  [![Chromium Gerrit](https://img.shields.io/badge/Chromium_Gerrit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromium-review.googlesource.com)
-  [![PDFium Gerrit](https://img.shields.io/badge/PDFium_Gerrit-DC4437?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://pdfium-review.googlesource.com)
-  
-</div>
-
-## 💭 random quote to make me look philosophical
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  [![Chromium Gerrit](https://img.shields.io/badge/Chromium_Gerrit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromium-review.googlesource.com/dashboard/4390784)
+  [![PDFium Gerrit](https://img.shields.io/badge/PDFium_Gerrit-DC4437?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://pdfium-review.googlesource.com/dashboard/4258968)
   
 </div>
 
@@ -102,10 +81,6 @@ skills = {
 
 <div align="center">
   
-  ### "any sufficiently advanced technology is indistinguishable from magic" – arthur c. clarke
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=LearnPRG-py&color=6366F1&style=for-the-badge)
-  
-  ⭐️ From [LearnPRG-py](https://github.com/LearnPRG-py) | Now go star some repos
   
 </div>
