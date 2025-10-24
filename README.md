@@ -4,8 +4,6 @@
 
 High schooler who likes working on different kinds of projects. I've been contributing to Chromium, building some EdTech platforms, and messing around with rockets and flight control systems. Also working on Suvriddhi OS to help get computers to students who need them.
 
-When I'm not coding, I play piano and try to keep up with school. Still figuring things out but enjoying the process.
-
 Check out my [portfolio](https://portfolio.quarklearning.online) if you want to see more of what I've worked on.
 
 ## 🛠️ what i work with
